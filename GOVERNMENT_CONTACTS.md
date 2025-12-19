@@ -1,7 +1,7 @@
 # NIGERIAN GOVERNMENT CONTACT DIRECTORY
 ## For Accountability Demands & FOIA Requests
 
-**Last Updated:** December 18, 2024
+**Last Updated:** December 18, 2025
 
 ---
 
