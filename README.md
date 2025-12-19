@@ -89,3 +89,9 @@
 
 ---
 
+*Package compiled by concerned citizens and researchers*  
+*For the use of all Nigerians demanding accountability*  
+*December 2024*
+
+**SHARE WIDELY. USE FREELY. DEMAND ACCOUNTABILITY.**
+
