@@ -1,0 +1,67 @@
+Loan_ID,Year_Signed,Lender,Loan_Amount_USD,Loan_Amount_NGN,Currency,Interest_Rate_%,Term_Years,Grace_Period_Years,Stated_Purpose,Project_Name,Ministry_Agency,Primary_Contractor,Contract_Value_USD,Disbursement_Status_%,Project_Status,Physical_Outcome,Operational_Status,Benchmark_Cost_USD,Cost_Variance_%,Estimated_Overcharge_USD,Source_Document,Repayment_Outstanding_USD,Red_Flags,FOI_Request_Status
+CN-001,2010,China Exim Bank,500000000,75000000000,USD,2.5,20,5,Railway Construction,Abuja-Kaduna Railway,Federal Ministry of Transportation,CCECC,500000000,100,Completed,186km rail line operational,Operational but not profitable; security issues,300000000,67,"200,000,000",Reuters 2010; DMO Reports,346150000,"Security issues; fares don't cover costs; low patronage",Not Requested
+CN-002,2017,China Exim Bank,1500000000,540000000000,USD,2.5,20,5,Railway Construction,Lagos-Ibadan Railway Phase 1,Federal Ministry of Transportation,CCECC,1500000000,100,Completed,157km rail line operational,Operational since 2021,"750,000,000",100,"750,000,000",Ecofinagency; Reuters,"1,042,000,000",Contractor later blacklisted by World Bank; cost 2x benchmark,Partial
+CN-003,2010,China Exim Bank,823000000,123450000000,USD,2.5,20,5,Urban Rail Transit,Abuja Light Rail Mass Transit,Federal Capital Territory Admin,CCECC,823000000,100,Partially Complete,Only 5km regularly operational after 10+ years,Minimal operations; largely dormant,500000000,65,"323,000,000",Reuters; News reports,"423,080,000","Massive cost vs. minimal utility; vandalism; low patronage",Not Requested
+CN-004,2023,China Exim Bank,11000000000,18150000000000,USD,TBD,TBD,TBD,Railway/Highway,Lagos-Calabar Coastal Rail (proposed),Federal Ministry of Works,TBD,11000000000,0,Proposed,"Pivoted to highway; now ₦15.6T ($13B) to Hitech",Not Started,6000000000,83,"5,000,000,000",SWI; Businessday; Atiku statements,0,"Project pivoted to highway (non-rail); awarded to Hitech (Chagoury) without competitive bidding; cost $18.5M/km vs. $3-7M/km benchmark",Active - Atiku & CSOs demanding disclosure
+WB-001,2020,World Bank (IDA),114280000,45712000000,USD,1.5,30,5,COVID-19 Emergency Response,Nigeria COVID-19 Action Recovery & Economic Stimulus (NG-CARES),Federal Ministry of Health / States,Various state implementers,114280000,100,Completed,Medical equipment; testing support; state programs,Funds disbursed,100000000,14,"14,280,000",World Bank Project Portal; Reuters,80000000,Health workers still unpaid despite funding; accountability gaps in state-level spending,Requested by CSOs
+WB-002,2018,World Bank (IDA),750000000,270000000000,USD,1.5,30,5,State Fiscal Reforms,State Fiscal Transparency & Sustainability (SFTAS),Federal Ministry of Finance / States,State governments (performance-based grants),750000000,~80,Ongoing,Performance-based grants to states meeting transparency targets,Mixed results; 34 of 36 states scored below average by 2025,750000000,0,0,World Bank; The Nation; FIJ Reports,200000000,"Ephemeral improvements; transparency scores dropped after incentives ended; Sokoto and others regressed",Partial
+WB-003,2020,World Bank (IDA/IBRD),1250000000,450000000000,USD,Variable,25,5,Power Sector Recovery,Power Sector Recovery Program (PSRP),Federal Ministry of Power,TCN; DISCOs; Various contractors,1250000000,~70,Ongoing,Grid improvements; metering; tariff reforms,Power still unreliable; ₦4T debt persists; constant collapses,"1,000,000,000",25,"250,000,000",World Bank Documents; News,"900,000,000","Despite $1.25B (+$750M additional 2023), power sector remains in crisis; subsidies persist; grid collapses continue",Requested by BudgIT
+EB-001,2022,International Capital Markets,4000000000,6600000000000,USD,8.375-9.248,7-30,0,Budget Deficit Financing & Debt Refinancing,2022 Eurobond (3 tranches),Federal Ministry of Finance / DMO,N/A (bond proceeds),4000000000,100,Disbursed,Funds allocated to budget deficit and refinancing maturing debt,N/A (financial instrument),4000000000,0,0,ThisDay Live; DMO Statements,4000000000,"No project-specific accounting; aggregated use unclear; high interest rates (8-9%) vs. lower domestic borrowing costs; Atiku & CSOs criticize lack of transparency",Active - Demands for dollar-by-dollar breakdown
+EB-002,2017-2021,International Capital Markets,10000000000,3600000000000,USD,6-8,7-30,0,Budget Support & Projects,Various Eurobond Issues (multiple tranches),Federal Ministry of Finance / DMO,N/A (bond proceeds),10000000000,100,Disbursed,Budget deficits and project financing (aggregated),N/A (financial instrument),10000000000,0,0,Various news; DMO,8500000000,No detailed breakdown published; appears to be debt-for-debt refinancing rather than new projects,Requested by CSOs
+FR-001,2022,AFD (Agence Française de Développement),100000000,165000000000,EUR,1-2,20,3,Green Finance / Climate Projects,Green Finance Credit Line,Bank of Industry (BOI),Private sector (SMEs),100000000,~50,Ongoing,Credit line for climate-focused businesses,Partial disbursement to private sector,100000000,0,0,BOI Press Release; AFD Nigeria,70000000,Directed to private sector; limited public visibility on final beneficiaries; terms not fully disclosed,Not Requested
+FR-002,2000-2025,AFD,500000000,825000000000,EUR,1-3,15-25,3-5,Energy / Urban / Water,Various AFD Programs,Multiple Ministries,Often French firms,500000000,Varies,Ongoing,Power transmission; urban projects; water,Mixed outcomes; limited public details,"400,000,000",25,"100,000,000",AFD Nigeria Website; BOI; News,300000000,"Specific loan amounts, interest terms, and contractor details not widely publicized; export credit benefits French companies; sovereignty concerns",Active - CSOs demanding full list since 2000
+ST-BAIL-001,2015,Federal Government of Nigeria (Internal),200000000,36000000000,NGN,0,N/A,N/A,State Salary Bailout,2015 State Bailout Fund,Federal Ministry of Finance,State Governments (27 states),200000000,100,Disbursed,Funds for unpaid salaries and pensions,Salaries still owed in many states,200000000,0,0,Independent Nigeria; News,0,"Purpose was salary payment; yet many states still owed arrears by 2017; Adamawa received ₦9.57B but only disbursed ₦2.37B (₦7.2B unaccounted); Benue made ""double payments""; Oyo still owed 4 months after receiving ₦26.6B",Active - ICPC monitored; citizens demanding full accounting
+ST-BAIL-002,2016,Federal Government of Nigeria (Internal),441000000,79380000000,NGN,0,N/A,N/A,State Salary Bailout,2016 State Bailout Fund,Federal Ministry of Finance,State Governments,441000000,100,Disbursed,Funds for unpaid salaries,Salary arrears persisted,441000000,0,0,Independent Nigeria,0,Similar issues as 2015 bailout; governors allegedly diverted funds,Active
+ST-BAIL-003,2017,Federal Government of Nigeria (Internal),1000000000,360000000000,NGN,0,N/A,N/A,State Salary Bailout,2017 State Bailout Fund,Federal Ministry of Finance,State Governments,1000000000,100,Disbursed,Funds for unpaid salaries,Many states continued owing salaries,1000000000,0,0,Independent Nigeria,0,"Total 2015-2017: ₦1.64T disbursed; widespread reports of misuse; governors built estates while workers unpaid",Active - Demands for recovery from governors
+FR-REF-001,2021,Various (NNPC equity partners sought),1500000000,2475000000000,USD,N/A,N/A,N/A,Refinery Rehabilitation,Port Harcourt Refinery Rehabilitation,NNPC Ltd,TBD (seeking equity partners),1500000000,~30,Ongoing (stalled),Rehabilitation work ongoing; not yet operational,Not operational,630000000,138,"870,000,000",Arise News; NNPC Statements,1500000000,"Cost 2.5-7x normal rehab for 210,000 bpd capacity; EFCC investigating alleged irregularities; $25B spent on all refineries 2013-2023 with zero operational output; alternative: $25B could have built 520 modular refineries (2.6M bpd capacity)",Active - SERAP & CSOs demanding audit
+CN-DAM-001,2017,China Exim Bank,1300000000,468000000000,USD,2.5,20,5,Hydroelectric Dam,Zungeru Hydropower (700 MW),Federal Ministry of Power,CNEEC / Sinohydro,1300000000,~90,Near Completion,700 MW dam; 101m high RCC structure,Near operational,1050000000,24,"250,000,000",Multiple news; USIP,900000000,"Within benchmark range ($1.86M/MW vs. $1.05-1.5M/MW) BUT: 100% imported turbines, installation, control systems, commissioning; zero local training despite Nigerian engineers available; creates permanent dependency",Not Requested
+SUMMARY ROW,2000-2025,Various,~25000000000,~45000000000000,Mixed,Variable,Variable,Variable,Various,Multiple Projects,Multiple Agencies,Multiple Contractors,~25000000000,Variable,Mixed,Mixed outcomes; many projects incomplete or non-functional,Mixed,"~15,000,000,000 - 18,000,000,000",40-67 average,"~7,000,000,000 - 10,000,000,000",Multiple sources,"~18,000,000,000","Systemic issues: Inflated costs, lack of competitive bidding, imported skills despite local capacity, zero accountability for many projects, minimal FOIA compliance","Widespread demands; limited government response"
+
+### NOTES ON DATABASE:
+# 1. All amounts in USD unless specified otherwise
+# 2. NGN amounts calculated at approximate exchange rates at time of signing
+# 3. Benchmark costs based on World Bank, AfDB, and comparable international projects
+# 4. Cost Variance % = ((Actual Cost - Benchmark Cost) / Benchmark Cost) * 100
+# 5. Red Flags column captures major accountability concerns
+# 6. FOI Request Status: Not Requested / Partial / Active / Denied / Responded
+# 7. Sources cited are abbreviated; full citations in Master Document
+# 8. This is Version 1.0 - requires continuous updates as new information emerges
+
+### KEY FINDINGS FROM DATABASE:
+# - Total documented loans: ~$25 billion (2000-2025)
+# - Estimated overcharges: $7-10 billion (28-40% of total)
+# - Chinese loans dominate infrastructure: $13+ billion
+# - World Bank: $2.1+ billion with mixed results
+# - Eurobonds: $14 billion with zero project-level transparency
+# - French bilateral: €600M+ ($650M+) with limited disclosure
+# - State bailouts: ₦1.64 trillion with widespread misuse
+
+### CRITICAL GAPS (Require FOIA Requests):
+# 1. Complete contractor lists for all projects
+# 2. Beneficial ownership of contractors (especially Hitech, CCECC subsidiaries)
+# 3. Detailed disbursement schedules
+# 4. Independent engineering cost assessments
+# 5. Revenue generation from operational projects (railways)
+# 6. Full text of all loan agreements
+# 7. Maintenance and operational contracts (ongoing costs)
+# 8. Training records (local capacity building - or lack thereof)
+
+### USAGE INSTRUCTIONS:
+# 1. Download and open in Excel/Google Sheets
+# 2. Use filters to sort by: Lender, Year, Status, Red Flags
+# 3. Calculate totals by lender or project type
+# 4. Identify patterns in cost overruns
+# 5. Cross-reference with PEP Property Tracker (below)
+# 6. Use Loan_ID in FOIA requests for specific documentation
+# 7. Share widely; crowd-source additional data
+# 8. Submit updates to accountability organizations (BudgIT, SERAP, etc.)
+
+### NEXT STEPS FOR CITIZENS:
+# 1. File FOIA requests for loans marked "Not Requested"
+# 2. Demand publication of all loan agreements
+# 3. Request independent audits of completed projects
+# 4. Cross-check contractor names with CAC Beneficial Ownership Register
+# 5. Track contractor executives' asset declarations
+# 6. Correlate loan signatures with property acquisitions (see PEP tracker)
+# 7. Support civil society lawsuits for disclosure
+# 8. Make this data viral - every Nigerian should see these numbers

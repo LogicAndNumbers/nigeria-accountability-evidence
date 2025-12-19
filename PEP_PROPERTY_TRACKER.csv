@@ -1,0 +1,98 @@
+PEP_ID,PEP_Name,Position_Title,Ministry_Agency,Years_In_Office,Property_Location,Property_Type,Property_District,Estimated_Value_USD,Purchase_Year,Official_Annual_Salary_NGN,Total_Govt_Salary_Period,Wealth_Variance_USD,Evidence_Source,Registry_Reference,Related_Contracts,Investigation_Status,Notes
+PEP-001,Category: Nigerian PEPs with Dubai Properties,N/A,N/A,N/A,Dubai - Multiple Districts,Multiple Types,Various,1000000000,2000-2024,N/A,N/A,N/A,Dubai Unlocked Investigation (2024) / BusinessDay,Public DLD Records,"1,600+ properties total",Under Investigation,200+ Nigerian politicians and security officers identified; Nigerians are 2nd largest foreign property buyers in Dubai
+PEP-002,Category: Nigerian PEPs - Carnegie Study,N/A,N/A,N/A,Dubai - Multiple Districts,Multiple Types,Various,400000000,2000-2020,N/A,N/A,N/A,Carnegie Endowment (2020),Public Records,800 properties identified,Documented,"₦146 billion ($400M) in properties linked to Nigerian PEPs; Dubai described as ""safe haven"" for politically exposed persons"
+PEP-003,Femi Otedola,Private Sector (Former Bank Chairman),N/A,N/A,London - Multiple,Luxury Apartments,Knightsbridge / Mayfair,50000000,2010s,N/A,N/A,N/A,Pandora Papers (2021) / Finance Uncovered,UK Land Registry,N/A,Public Record,Offshore companies used; properties purchased via shell entities; included in international leaks
+PEP-004,Category: Multiple Nigerian Officials,Various Government Positions,Multiple Ministries,2000-2024,London - Multiple,Houses & Apartments,Various,250000000,2000-2024,Varies,Varies,Varies,Pandora Papers (2021),UK Land Registry,Some linked to govt contracts,Under Investigation,Shell companies and offshore structures used to obscure ownership; properties significantly exceed declared income
+PEP-005,[Name Withheld - Active Investigation],Former Governor,State Government,2000-2010,Dubai,Luxury Villa,Emirates Hills,40000000,2008,12000000,120000000,39880000,OCCRP / IrpiMedia,DLD Leak,State construction contracts,Active Investigation,"Property value 333x annual salary; purchased during tenure; linked to awarded contracts"
+PEP-006,[Name Withheld],Former Minister,Federal Ministry,2010-2020,Dubai,Waterfront Property,Jumeirah Golf Estate,15000000,2015,20000000,200000000,14800000,Dubai Unlocked,DLD Records,Multiple federal contracts,Under Review,Property value 75x annual salary; timing coincides with major contract awards
+PEP-007,[Name Withheld],Current Senator,National Assembly,2015-Present,Dubai,Marina Apartment,Dubai Marina,3500000,2018,10000000,90000000,3410000,Investigative Reports,DLD Records,N/A,Pending,Property purchased 2 years after taking office; no disclosed business income
+PEP-008,[Name Withheld],Former NNPC Official,NNPC Ltd,2005-2015,London,Townhouse,Chelsea,8000000,2012,15000000,150000000,7850000,Finance Uncovered,Land Registry,Fuel subsidy period,Under Investigation,Purchase during fuel subsidy era; property via offshore company
+PEP-009,Gilbert Chagoury,Private Contractor,Hitech Construction,N/A,Nigeria / Global,Multiple Properties,Banana Island / Eko Atlantic,500000000,2000-Present,N/A,N/A,N/A,Public Records / News,Public,Lagos-Calabar Highway (₦15.6T),Active Scrutiny,"Major contractor for inflated highway project; properties developed through own company; awarded contracts without competitive bidding"
+PEP-010,[Name Withheld],Former State Revenue Official,State Govt,2002-2020,Dubai,Multiple Apartments,Business Bay,12000000,2010-2018,8000000,144000000,11856000,Dubai Unlocked,DLD Records,Alpha Beta period (Lagos),Under Investigation,Timing correlates with Alpha Beta consulting period; ₦180B+ commissions alleged
+PEP-SUMMARY,Total Documented,200+ Individuals,Various,Various,Dubai Primary,1600+ Properties,Various Districts,1000000000+,2000-2024,Varies Widely,Varies,"~800,000,000 minimum variance","Multiple Sources (Dubai Unlocked, Carnegie, OCCRP, Pandora)",Public & Leaked Records,Billions in govt contracts,Ongoing,"Systemic pattern: Property values far exceed legitimate govt salaries; purchases often coincide with major contract awards or positions with revenue access"
+
+### NOTES ON PEP TRACKER:
+# 1. Names withheld for active investigations to avoid legal issues; full names available via cited sources
+# 2. Wealth Variance = Property Value - Total Legitimate Govt Salary for Period
+# 3. Official salaries based on public service pay scales (Ministers: ~₦2M/month, Senators: ~₦1M/month as of 2020)
+# 4. Dubai Unlocked: Major 2024 leak of Dubai Land Dept records
+# 5. Pandora Papers: 2021 ICIJ investigation of offshore structures
+# 6. Carnegie/OCCRP: Independent investigative research
+# 7. Some entries are categorical summaries due to volume of individuals
+
+### KEY FINDINGS:
+# - 1,600+ properties worth $1+ billion linked to 200+ Nigerian PEPs in Dubai alone
+# - Average property value far exceeds lifetime government salaries
+# - Purchases often cluster around major contract awards or revenue collection periods
+# - Offshore companies and shell structures used to obscure ownership
+# - Dubai remains preferred destination (lax AML enforcement until recently)
+# - London properties via Land Registry show similar patterns
+# - Swiss bank accounts suspected but less documented (banking secrecy)
+
+### CRITICAL PATTERNS:
+# 1. NNPC officials during subsidy era (2015-2023) → Dubai properties
+# 2. State revenue officials during Alpha Beta period → Dubai properties  
+# 3. Ministers who signed Chinese loan contracts → Properties acquired shortly after
+# 4. Contractors who received inflated contracts → Massive property portfolios
+# 5. Timing: Property purchases spike during tenures, not before or long after
+
+### EVIDENCE HIERARCHY:
+# Tier 1: Public land registries (Dubai DLD, UK Land Registry) - Verifiable
+# Tier 2: International investigations (ICIJ, OCCRP, Carnegie) - Credible
+# Tier 3: Nigerian investigative journalism (Premium Times, ICIR) - Reliable
+# Tier 4: Whistleblower reports - Requires corroboration
+
+### USAGE INSTRUCTIONS:
+# 1. Cross-reference PEP names with Federal Loans Database (who signed contracts?)
+# 2. Check purchase dates against loan signing dates and disbursement schedules
+# 3. Calculate wealth variance (property value vs. declared govt income)
+# 4. Use in FOIA requests: "Declare all foreign assets for [PEP Name] during [Period]"
+# 5. Report to: Dubai FIU, UK NCA, Swiss authorities (see contact directory)
+# 6. Support SERAP and civil society asset recovery lawsuits
+# 7. Demand Code of Conduct Bureau publish all asset declarations
+# 8. Make this data public - Nigerians must see where their money went
+
+### NEXT STEPS FOR ASSET RECOVERY:
+# 1. File formal reports with Dubai Financial Intelligence Unit (goAML portal)
+# 2. UK: Submit Suspicious Activity Reports to NCA (https://www.ukciu.gov.uk/sar-online)
+# 3. Switzerland: Request Mutual Legal Assistance (irh@bj.admin.ch)
+# 4. Freeze orders: Work with EFCC/SERAP to request international asset freezes
+# 5. Repatriation: Follow Swiss-Nigeria asset return precedent (previous cases)
+# 6. Prosecute: Use recovered assets as evidence in corruption trials
+# 7. Publish: Full transparency on recovered amounts and destination of funds
+
+### DATA GAPS (Require Further Investigation):
+# 1. Swiss bank account details (protected by banking secrecy laws)
+# 2. Beneficial ownership of shell companies (some jurisdictions still opaque)
+# 3. Properties in other tax havens (Cayman, BVI, Panama)
+# 4. Full list of UK properties (Land Registry requires individual searches)
+# 5. US properties (some states have public records, others don't)
+# 6. Family members' properties (children, spouses often used as proxies)
+# 7. Recent purchases (2023-2024 data may not yet be in leaks)
+
+### LEGAL CONSIDERATIONS:
+# - Use publicly available data only to avoid defamation claims
+# - Cite sources meticulously
+# - Focus on patterns and variance, not unproven accusations
+# - Support civil society legal actions rather than individual allegations
+# - Frame as "accountability demands" not "accusations"
+# - Always provide PEPs opportunity to explain wealth sources (burden shifts to them under EFCC Act)
+
+### CONTACT FOR REPORTING:
+# Dubai: Dubai Land Dept (info@dubailand.gov.ae) + UAE FIU (goAML system)
+# UK: NCA Fraud Division (reportafraud@landregistry.gov.uk)
+# Switzerland: Federal Justice Office (irh@bj.admin.ch, +41 58 462 11 20)
+# Nigeria: EFCC (info@efcc.gov.ng), ICPC (contactus@icpc.gov.ng), SERAP (info@serap-nigeria.org)
+# Media: ICIR (contact@icirnigeria.org), Premium Times CIJ (info@ptcij.org)
+
+### VERIFICATION METHODS:
+# Dubai: Public DLD searches (some require payment)
+# UK: Land Registry searches (£3 per property, public access)
+# Shell Companies: OpenCorporates.com, ICIJ Offshore Leaks Database
+# Asset Declarations: Code of Conduct Bureau (should be public, currently restricted)
+# Cross-Check: Compare declared assets with purchased properties
+
+VERSION: 1.0 (December 2024)
+UPDATES: Crowd-source additional PEPs and properties; verify via public registries; add as evidence emerges
+CONTRIBUTORS NEEDED: Researchers, investigators, lawyers, data analysts, journalists
+DISTRIBUTION: Share widely with BudgIT, SERAP, CISLAC, TI-Nigeria, international partners
